@@ -1,45 +1,27 @@
-# Python Games Collection 🎮
+# Python Games 🎮
 
-Welcome to my first Python project! This repository contains two classic games built with Python as I learn programming.
+Just a couple of simple terminal games I made while messing around with Python.
 
-## 📋 Table of Contents
-- [Games Included](#games-included)
-- [Prerequisites](#prerequisites)
-- [How to Run](#how-to-run)
-- [Game Instructions](#game-instructions)
-- [What I Learned](#what-i-learned)
-- [Future Improvements](#future-improvements)
+Nothing fancy — pure hobby / timepass stuff. Built them for fun while learning the basics.
 
-## 🎯 Games Included
+---
 
-### 1. Number Guessing Game
-A simple game where you try to guess a randomly generated number between 1 and 10.
+### Games
 
-**Features:**
-- Input validation
-- Random number generation
-- Replay option
-- User-friendly prompts
+**1. Number Guessing Game**  
+Guess a random number between 1 and 10.  
+Has input checking, replay option, and basic feedback.
 
-### 2. Tic Tac Toe
-The classic two-player Tic Tac Toe game with a clean board display.
+**2. Tic Tac Toe**  
+Classic two-player Tic Tac Toe.  
+Clean board, win/draw detection, random first player, and you can play again without restarting.
 
-**Features:**
-- Two-player gameplay
-- Dynamic board display
-- Win detection (rows, columns, diagonals)
-- Draw detection
-- Random player selection for first turn
-- Replay option
-- Screen clearing for better visibility
+---
 
-## 🔧 Prerequisites
+### How to run
 
-- Python 3.x installed on your system
-- No external libraries required (uses only built-in modules)
+You only need Python 3 (no extra libraries).
 
-## 🚀 How to Run
-
-1. Clone this repository:
 ```bash
-git clone (https://github.com/pranayh-code/pythongames)
+git clone https://github.com/pranayh-code/pythongames.git
+cd pythongames
